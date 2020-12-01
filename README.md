@@ -3,8 +3,8 @@
 ![zz](https://matplotlib.org/3.3.3/_static/logo2_compressed.svg) </br></br>
 
 matplotlib 과 seaborn에서 제공하는 docs를 가시면 더욱더 자세하게 해당 내용을 익힐수 있다. </br>
-<https://matplotlib.org/>
-<https://seaborn.pydata.org/index.html>
+<https://matplotlib.org/> <--matplotlib Docs<br>
+<https://seaborn.pydata.org/index.html> <-- seaborn Docs
 
 __글쓰기 앞서 다양한 그래프를 그리면서 겪었던 상황중 하나 항상 나의 VERSION 확인 !!!__
 
