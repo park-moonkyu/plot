@@ -11,6 +11,10 @@ __글쓰기 앞서 다양한 그래프를 그리면서 겪었던 상황중 하�
 도움을 주신 분 : Jaehyun Lee(aka. Pega) 님 감사합니다. <br>
 <https://jehyunlee.github.io/> <-- 페가님 블로그에서 많은부분을 배울수있었다. <br><br>
 
+커뮤니티 활동을 하다보면 그래프를 어떻게 그려야할지 힘들어하시는 개발자분들을 많이 경험했다.<br>
+간단히 말해 그래프에 대한 나의 생각은 내가 Tensorflow KR에 적었던 댓글으로 요약된다<br>
+<img width="187" alt="aaa" src="https://user-images.githubusercontent.com/41941627/100684505-d0367f00-33bd-11eb-852d-66563331ae40.png">
+
 
 # Introduction
 우선 데이터분석의 파이썬 3대장(?) 이라고 불리는것들엔 무엇이 있을까 ?<br>
