@@ -40,12 +40,12 @@ matplotlib을 이용하면 우리가 이전에 알아본 numpy나 pandas에서 �
 matplotlib을 사용하기 위해서는 먼저 matplotlib을 설치하고 아래와 같이 import를 해주어야 합니다.<br>
 mat + plot + lib 세가지로 분리해  'Mat 이라는 그래프 그려주는 라이브러리' 정도로 쉽게 기억하자 . <br>
 
-<br><br><br><br>
+<br><br>
 import matplotlib
 <br>
 import matplotlib.pyplot as plt
 <br>
-
+이런식으로 쓰여진다.
 # What is seaborn ?
 
 Seaborn은 기본적으로 matplotlib를 베이스(밑단)으로 삼고 최상위 단에서 연산을 하는 모양이다. 
