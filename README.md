@@ -34,7 +34,22 @@ __글쓰기 앞서 다양한 그래프를 그리면서 겪었던 상황중 하�
 
 # what is matplotlib ?
 
+matplotlib은 다양한 데이터를 많은 방법으로 도식화 할 수 있도록 하는 파이썬 라이브러리로써, 우리는 matplotlib의 pyplot을 이용하게 된다.<br>
+이는 mathworks에서 개발한 매트랩(MATLAB)과 비슷한 형태를 가지고 있다.<br>
+matplotlib을 이용하면 우리가 이전에 알아본 numpy나 pandas에서 사용되는 자료구조를 쉽게 시각화 할 수 있다.<br>
+matplotlib을 사용하기 위해서는 먼저 matplotlib을 설치하고 아래와 같이 import를 해주어야 합니다.<br>
+mat + plot + lib 세가지로 분리해  'Mat 이라는 그래프 그려주는 라이브러리' 정도로 쉽게 기억하자 . <br>
+
+<br><br><br><br>
+import matplotlib
+<br>
+import matplotlib.pyplot as plt
+<br>
+
 # What is seaborn ?
+
+Seaborn은 기본적으로 matplotlib를 베이스(밑단)으로 삼고 최상위 단에서 연산을 하는 모양이다. 
+pandas 데이터 구조를 사용하여 입출력을 받아 연산을 합니다. matplotlib을 기반으로 했다는 건 matplotlib에서 '추가적으로 사용가능한 확장판' 정도로 이해하면 좋을 것 같다.<br>
 
 # 그럼 레퍼지토리의 코드들로 실제 실습을 해보자.
 
